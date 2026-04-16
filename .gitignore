@@ -1,0 +1,11 @@
+build/
+.cache/
+CMakeUserPresets.json
+
+# Editor files
+.vscode/
+.idea/
+.cache/
+
+# OS files
+.DS_Store
